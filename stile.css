@@ -1,0 +1,21 @@
+body {
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+}
+
+.contrainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 30%;
+    background-color: lightcoral;
+}
+.box{
+    display: flex;
+    margin: 20px;
+    background-color: coral;
+    font-size: 30px;
+}
